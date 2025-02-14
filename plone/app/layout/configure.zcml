@@ -32,6 +32,7 @@
   <include package=".controlpanels" />
   <include package=".views" />
   <include package=".users" />
+  <include package=".browser" />
 
   <include file="permissions.zcml" />
 
